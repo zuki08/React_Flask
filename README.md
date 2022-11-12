@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Also with the help of connecting to Flask with this link: (https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i)
+
 ## Available Scripts
 
 In the project directory, you can run:
